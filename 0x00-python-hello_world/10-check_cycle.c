@@ -1,4 +1,4 @@
-include "lists.h"
+#include "lists.h"
 
 /**
  * check_cycle - a function in C that checks if a singly linked list
