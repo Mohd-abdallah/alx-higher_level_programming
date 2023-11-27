@@ -1,1 +1,1 @@
-### This Repository contains porject that has been done with Python.
+### This Repository contains porjects that has been done with Python.
